@@ -1,0 +1,8 @@
+{
+  "short_name": "Full Stack Site",
+  "name": "Full Stack Site - A test website",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
